@@ -19,6 +19,21 @@ const certifications = [
     description: "Successfully completed the 'Mathematics - Basics to Advanced for Data Science and GenAI' course on Udemy by Krish Naik, gaining in-depth knowledge of mathematical concepts essential for data science and generative AI applications.",
     image: "/Certificates/Certificate2.jpg",
   },
+  {
+    title: "Maths and Statistics for AI, Data Science",
+    description: "Completed 'Maths and Statistics for AI, Data Science' covering essential mathematical and statistical concepts for AI and data science.",
+    image: "/Certificates/Certificate3.png",
+  },
+  {
+    title: "Complete Data Science, Machine Learning, DL, NLP Bootcamp",
+    description: "Completed 'Complete Data Science, Machine Learning, DL, NLP Bootcamp', a 100-hour program covering end-to-end data science and AI concepts.",
+    image: "/Certificates/Certificate4.png",
+  },
+  {
+    title: "AI for Everyone",
+    description: "Completed 'AI for Everyone', covering all theoretical concepts in data science and AI.",
+    image: "/Certificates/Certificate5.png",
+  },
 ];
 
 const Certification = () => {
