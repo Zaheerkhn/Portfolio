@@ -27,7 +27,7 @@ const Banner = () => {
         <a href="https://github.com/Zaheerkhn" target="_blank" rel="noopener noreferrer" className="p-1.5 md:p-2">
           <FaGithub className="text-lg md:text-2xl hover:text-gray-400 transition-transform hover:scale-110" />
         </a>
-        <a href="https://linkedin.com/in/zaheer-khan-059b66275" target="_blank" rel="noopener noreferrer" className="p-2">
+        <a href="https://linkedin.com/in/zaheer-khan1" target="_blank" rel="noopener noreferrer" className="p-2">
           <FaLinkedin className="text-xl md:text-2xl hover:text-blue-400 transition-transform hover:scale-110" />
         </a>
         <a href="https://twitter.com/Zaheer_twts" target="_blank" rel="noopener noreferrer" className="p-2">

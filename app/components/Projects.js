@@ -8,6 +8,49 @@ import "swiper/css/navigation";
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
+
+  {
+    title: "AI Agent - Video Summarizer",
+    description: "This AI-driven tool analyzes video content and provides concise, insightful summaries while integrating web search for additional context.",
+    image: "/projects/AV.png",
+    github: "https://github.com/Zaheerkhn/Multimodal-AI-Agent---Video-Summarizer",
+    live: "https://multimodal-ai-agent---video-summarizer.streamlit.app/",
+  },
+  {
+    title: "Finance Assistant ",
+    description: "This Finance Assistant leverages Meta Llama 3.3 70B and Groq for ultra-fast inference, combining web search and financial data retrieval to deliver real-time insights.",
+    image: "/projects/FA.png",
+    github: "https://github.com/Zaheerkhn/Finance-Assistant",
+    live: "https://finance-assistant1.streamlit.app/",
+  },
+  {
+    title: "RAG-Document-Chatbot",
+    description: "RAG Application is a Retrieval-Augmented Generation (RAG)-based chatbot that allows users to upload PDFs, generate embeddings, and ask questions related to the documents.",
+    image: "/projects/RAG2.png",
+    github: "https://github.com/Zaheerkhn/RAG-Document-Chatbot",
+    live: "https://rag-document-chatbot2.streamlit.app/",
+  },
+  {
+    title: "Code Assistant: Your AI-Powered Coding Companion ",
+    description: "I've built an AI-powered Code Assistant that helps with coding problems, explanations, and code generation",
+    image: "/projects/CA.png",
+    github: "https://github.com/Zaheerkhn/Code-Assistant",
+    live: "https://ai-code-assistant.streamlit.app/",
+  },
+  {
+    title: "AI-Powered Math Problem ",
+    description: "This app can help answer math-based aptitude and reasoning questions with step-by-step explanations!",
+    image: "/projects/AMPS.png",
+    github: "https://github.com/Zaheerkhn/AI-Powered-Math-Problem-Solver",
+    live: "https://ai-powered-math-problem-solver.streamlit.app/",
+  },
+  {
+    title: "Langchain: Chat with SQL",
+    description: " Chat with SQL, a powerful Streamlit-based chatbot that enables seamless natural language interaction with SQL databases! ",
+    image: "/projects/LCQ.png",
+    github: "https://github.com/Zaheerkhn/Langchain-Chat-with-SQL",
+    live: "https://langchain-chat-with-sql.streamlit.app/",
+  },
   {
     title: "RAG ChatBot with Chat History",
     description: "This project is an advanced Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDFs and ask questions based on their content. The chatbot maintains chat history for a more context-aware conversation.",
