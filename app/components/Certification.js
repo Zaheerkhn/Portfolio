@@ -30,6 +30,11 @@ const certifications = [
     image: "/Certificates/Certificate4.png",
   },
   {
+    title: " Complete Generative AI Course With Langchain and Huggingface",
+    description: "I completed a 55-hour Generative AI course on Udemy by Krish Naik, gaining hands-on experience with LLMs, LangChain, vector databases, embeddings, and fine-tuning. The course also covered retrieval-augmented systems and AI agents for autonomous task execution.",
+    image: "/Certificates/Certificate6.png",
+  },
+  {
     title: "AI for Everyone",
     description: "Completed 'AI for Everyone', covering all theoretical concepts in data science and AI.",
     image: "/Certificates/Certificate5.png",
